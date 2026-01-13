@@ -23,7 +23,7 @@ Basically the client will encode the each character (1 byte = 8 bits), send it a
 
 ## demo
 
-[![minitalk](minitalk.png)](https://github.com/garrotini/minitalk/blob/master/minitalk.mp4)
+[![minitalk](https://github.com/garrotini/minitalk/blob/master/minitalk.png)](https://github.com/garrotini/minitalk/blob/master/minitalk.mp4)
 
 ## license
 
