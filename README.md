@@ -25,6 +25,8 @@ Basically the client will encode the each character (1 byte = 8 bits), send it a
 
 [![minitalk](https://github.com/garrotini/minitalk/blob/master/minitalk.png)](https://github.com/garrotini/minitalk/blob/master/minitalk.mp4)
 
+![minitalk](https://github.com/user-attachments/assets/c074e4bf-7dfa-4564-ab9e-1367f71895e1)
+
 ## license
 
 This project is part of the 42 school curriculum.
