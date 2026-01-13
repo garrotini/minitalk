@@ -21,10 +21,9 @@ Basically the client will encode the each character (1 byte = 8 bits), send it a
 3. send a message using server's PID:
 `./client [SERVER_PID] "message"`
 
-
 ## demo
 
-![Demo](minitalk.mp4)
+[![minitalk](minitalk.png)](minitalk.mp4)
 
 ## license
 
